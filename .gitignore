@@ -1,5 +1,5 @@
 .cache
 node_modules
 src
-index.html
+/index.html
 package-lock.json
