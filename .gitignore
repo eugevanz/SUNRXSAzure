@@ -1,5 +1,7 @@
 .cache
 node_modules
 src
+venv
+.gitignore
 /index.html
 package-lock.json
